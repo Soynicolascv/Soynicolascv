@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=jeffdevx&icon=0&color=0)](https://visitcount.itsvg.in)<br>
+:floppy_disk:[![](https://visitcount.itsvg.in/api?id=jeffdevx&icon=0&color=0)](https://visitcount.itsvg.in)<br>
 # <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Hi, I'm Nicolas Cubillos Velandia<sub style="font-size: 15px; font-style: italic">, a programming enthusiast.</sub><br> 
 
 ⚡Data analist and in the process to be a data scintist, always looking to learn and expand my skills.<br>
