@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=jeffdevx&icon=0&color=0)](https://visitcount.itsvg.in)<br>
 # <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Hi, I'm Nicolas Cubillos Velandia<sub style="font-size: 15px; font-style: italic">, a programming enthusiast.</sub><br> 
 
-⚡Backend developer by nature, but with a curious eye for the frontend, always looking to learn and expand my skills.<br>
+⚡Data analist and in the process to be a data scintist, always looking to learn and expand my skills.<br>
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Skills</b>
 
